@@ -1,5 +1,5 @@
 # Hello World!&nbsp;<img src="https://raw.githubusercontent.com/savegebeast7000/savegebeast7000/main/IKNm.gif" width="30px">
-My name is Aycen but you can call me "savage" I'm a person who is **obsessed** with the idea of improving.
+I'm "savage" I'm a person who is **obsessed** with the idea of improving.
 
 # Projects &nbsp;<img src="https://raw.githubusercontent.com/savegebeast7000/savegebeast7000/main/S-AHunterxHunter-49x264-vorbis603A2DACmkv_snapshot_1225_20120705_180231.png" width="55px">
 Ive been working on a project called, ***Custom Memer*** which is a discord bot that's just like another popular bot called "Dank Memer" which is a text-based game but you can give yourself items and do whatever you'd like, aswell as a Roblox Executor.
